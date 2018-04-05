@@ -3,7 +3,7 @@
 
 Contents
 
-1.	Block chain
+1.	Block Chain
 
 
 		1.1	Techniques and features of Block chain
@@ -37,13 +37,13 @@ Contents
 6. Team introduction
 <BR><BR><BR><BR>
 
-### 1.	Block chain
+### 1.	Block Chain
 
 
 
-1.1	Techniques and features of Block chain
+1.1	Techniques and features of Block Chain
 
-Block chain is inevitable to mention when people talk about Bitcoin. What is believed is that Block chain leads the change world widely by quickly penetrating all the societies. 
+Block Chain is inevitable to mention when people talk about Bitcoin. What is believed is that Block chain leads the change world widely by quickly penetrating all the societies. 
 transactions into the ledger over a given period. For that reason, there are many fields interested in this technique, such as finance, trade, distribution, and pharmaceutical industries, and there are specific infrastructures of the blockchain in Samsung SDS, Kakaotalk, and Seoul government. In short, the most advantageous part of the block chain is transparency, and the credibility based on this technique will be the key part for the 4th industrial revolution. Not only transparency, but also unchangeability in terms of the impossibility of changing records of the financial transactions and dispersibility, in which all the participants take part, will be the most advantaged in Blockchain.
 Blockchain can be categorised into 3 following:
 
