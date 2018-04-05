@@ -27,7 +27,6 @@ Contents
 		3.2	Token distribution
     
 4. Competitivity 
-
 5. Road Map
 
 		5.1 Project Roadmap
@@ -43,12 +42,12 @@ Contents
 
 1.1	Techniques and features of Block Chain
 
-Block Chain is inevitable to mention when people talk about Bitcoin. What is believed is that Block chain leads the change world widely by quickly penetrating all the societies. 
+ Block Chain is inevitable to mention when people talk about Bitcoin. What is believed is that Block chain leads the change world widely by quickly penetrating all the societies. 
 transactions into the ledger over a given period. For that reason, there are many fields interested in this technique, such as finance, trade, distribution, and pharmaceutical industries, and there are specific infrastructures of the blockchain in Samsung SDS, Kakaotalk, and Seoul government. In short, the most advantageous part of the block chain is transparency, and the credibility based on this technique will be the key part for the 4th industrial revolution. Not only transparency, but also unchangeability in terms of the impossibility of changing records of the financial transactions and dispersibility, in which all the participants take part, will be the most advantaged in Blockchain.
 Blockchain can be categorised into 3 following:
 
 - Public blockchain: Anyone can participate in the network such as Bitcoin and Ethereum. <BR>
--	Private blockchain:One institution exclusively owns one network <BR>
+- Private blockchain:One institution exclusively owns one network <BR>
 - Consortium blockchain: Pre-selected group of participants establish a consortium and control the consensus process, but only those authorised participants can take part in the network. So it is called part public, part private. 
 
 Most of blockchains in ICO market are all based on public blockchain. It means anyone can participate in blockchaine networks, and thereby everyone can see all the transactions and verify them. Whereas, the private blockchain is limited to authorised participants and supervisory institutions. Only those who are authorised can access to the transactions, observe the process and only those participants can validate and approve the transactions. Also, it is limited to generate the new transactions as well. For these reasons, anyone can participate in the public blockchain, in which there is no central de facto operators to control the financial process and the participants can choose their own currencies for the financial activities which make them free from the regulations regarding the currencies. Whereas, the actual operators in private blockchain are clear and every transaction is technically based on the existing financial activities, so the participants should comply with the financial law and regulations.
