@@ -107,7 +107,7 @@ Smart contract will be automatically distributed to OZEX as well as all the bene
 If you have 10 million of OZEX coins in your OZEX wallet, you are qualified to obtain a hundredth worth new coins/tokens, which OZEX testifies and validates against the value of OZEX token you have for 3 years. For instance, if you have 10,000 USD worth OZEX coins, you are allocated to have 100 USD new ICO coins which OZEX testifies and validates.
 (Note, the price of ICO coins and OZEX coins will be set by the day of the cryptocurrency exchange rate according to COINMARKETCAP, and the day of distributing ICO coins/tokens will be the day after ICO schedule finishes)
 <BR><BR>
-### 4	Competitivity
+### 4.	Competitivity
 
 30 tokens will be selected by OZEX team and experts with regards to the roadmap and the number will increase to 50 tokens and will establish its own OZEX Alliance. The team is developing the secure and convenient way of exchanges considering the purpose of use and tastes for the investors and will ally with secure and robust coins to produce a large scale of alliance. OZEX is already guaranteed to be listed on 2 Chinese based exchanges unlike any other unguaranteed ICO coins, and we aim to list OZEX on big exchanges by November 2018.
 
