@@ -132,7 +132,7 @@ September 2018 - Complete MainNet Test
 
 Oct 2018 - Distribute OZEX Personal Wallets
 
-Jan 2019 - OZEX will be listed on big exchanges.
+Nov 2018 - OZEX will be listed on big exchanges.
 
 Dec 2019 - 30 new ICOs with OZEX
 
