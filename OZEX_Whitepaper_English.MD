@@ -104,7 +104,7 @@ Smart contract will be automatically distributed to OZEX as well as all the bene
   The distribution of OZEX token via OZEX ICO will be following: 
 
 If you have 10 million of OZEX coins in your OZEX wallet, you are qualified to obtain a hundredth worth new coins/tokens, which OZEX testifies and validates against the value of OZEX token you have for 3 years. For instance, if you have 10,000 USD worth OZEX coins, you are allocated to have 100 USD new ICO coins which OZEX testifies and validates.
-(Note, the price of ICO coins and OZEX coins will be set by the day of the cryptocurrency exchange rate according to COINMARKETCAP, and the day of distributing ICO coins/tokens will be the day after ICO schedule finishes)
+(Note, the price of ICO coins and OZEX coins will be set by the day of the cryptocurrency exchange rate according to COINMARKETCAP, and the standard price of ICO coins/tokens will their prices of the next day of ICO. Coins/tokens will be distributed as each ICO roadmap indicates)
 <BR><BR>
 ### 4.	Competitivity
 
