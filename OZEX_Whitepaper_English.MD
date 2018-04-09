@@ -68,7 +68,7 @@ exchangeable for BTC market), ‘Huobi’ (115coins exchangeable for BTC market)
 
 2.1	What is OZEX?
 
-It is a new compound word of ‘Aussie’ and ‘Exchange’. Australia has Uluru regarded to as the centre of the world and given that, OZEX is named after Aussie (or Oz) and aspires to be the world central coin in the trading market.
+It is a new compound word of ‘Aussie’ and ‘Exchange’. Australia has Uluru regarded to as the centre of the world and given that, OZEX is named after Aussie (or Oz) and aspires to be the world central coin in the cryptocurrency market.
 <BR><BR>
 2.2	Why OZEX is necessary?
 
