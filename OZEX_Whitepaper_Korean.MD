@@ -108,7 +108,7 @@ OZEX는 Smart Contract으로 자동으로 분배하며, 이 후 OZEX소유자들
 
 OZEX ICO를 통해 얻는 토큰의 배분 방식은 다음과 같다. 100만개 이상의 OZEX코인을 OZEX지갑에 예치해두면 지갑 출시 후 3년간 OZEX에서 진행되는 모든 코인을 보유한 OZEX 가치대비 100분의 1로 지급 받을 수 있다. 예를 들어, OZEX코인 10,000달러(가치)를 가지고 있는 보유자라면 OZEX가 진행한 ICO 코인을 100달러를 배분 받게 된다.
 
-(ICO코인의 가격은 ICO가격을 기준으로 하며 OZEX코인의 가격은 ICO 시작 당일 COINMARKETCAP에 따르며, ICO 코인(토큰) 지급은 ICO일정이 끝 난 그 다음날 기준으로 함.)
+(ICO코인의 가격은 ICO가격을 기준으로 하며 OZEX코인의 가격은 ICO 시작 당일 COINMARKETCAP에 따르며, ICO 코인(토큰) 지급가격은 ICO일정이 끝 난 그 다음날 기준가격으로 함. 지급 일정은 해당 ICO 로드맵을 기준으로 한다.)
 <BR><BR>
 ### 4. OZEX의 경쟁력
 
@@ -120,7 +120,7 @@ OZEX의 로드맵에 따라 2019년 말까지 30개 코인(토큰)을 개발 및
 
 March 2017 - OZEX Platform Development Started
 
-March 2018 - 1st Private Sale (2.5 billion OZEX) Complete​d.
+March 2018 - 1st Private Sale (2.5 billion OZEX) Completed.
 
 April 2018 - OZEX Presale
 
