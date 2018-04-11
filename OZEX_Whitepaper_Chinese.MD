@@ -131,9 +131,9 @@ OZEX 通过 Smart Contract 进行自动分配， 对OZEX持有者提供各种优
 
 3月 2017 - OZEX平台着手开发
 
-3月 2018 -成功的完成首次私密销售（privatesale） (25亿 OZEX) 
+3月 2018 -成功的完成首次私募（privatesale） (25亿 OZEX) 
 
-4月 2018 - OZEX 预售（presale）
+4月 2018 - OZEX 首次公开发售（presale）
 
 5月 2018 - ICO
 
@@ -152,9 +152,9 @@ OZEX 通过 Smart Contract 进行自动分配， 对OZEX持有者提供各种优
 <BR><BR><BR><BR>
 5.2 ICO 发展战略
 
-2018年4月19号 -预售开始 (Presale Price : 1OZEX = US$0.004)
+2018年4月19号 -公开发售开始 (Presale Price : 1OZEX = US$0.004)
 
-2018年5月10号 -预售结束
+2018年5月10号 -公开发售结束
 
 2018年5月11号 - ICO 开始(ICO Price : 1OZEX = US$0.01)
 
