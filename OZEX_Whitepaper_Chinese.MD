@@ -72,9 +72,7 @@
 
 2.1 OZEX是什么？
 
-Uluru 乌卢鲁即澳洲艾尔斯岩，被称之为“世界最大的单体巨石”。AUSSIE为 “澳大利亚”的方言，OZEX是澳大利亚AUSSIE缩略语OZ，与交易所EXCHANGE EX的合成词 从而得名OZEX。意味着要成为世界货币中心的主要交易货币。
-      
-作为澳大利亚的货币，OZEX怀着成为ICO的中心的抱负。Uluru（Ayers Rock被称之为世界中心的岩石）。
+Uluru 乌卢鲁即澳洲艾尔斯岩，被称之为“世界最大的单体巨石”。AUSSIE为 “澳大利亚”的方言，OZEX是澳大利亚AUSSIE缩略语OZ，与交易所EXCHANGE EX的合成词 从而得名OZEX。意味着要成为世界货币中心的主要交易货币。OZEX怀着成为ICO的中心的抱负。Uluru（Ayers Rock被称之为世界中心的岩石）。
 <BR><BR>
 2.2 OZEX的必要性
 
