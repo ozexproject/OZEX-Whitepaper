@@ -1,4 +1,4 @@
-# OZEX Whitepaper (Korean)
+# OZEX Whitepaper (English)
 
 
 Contents
