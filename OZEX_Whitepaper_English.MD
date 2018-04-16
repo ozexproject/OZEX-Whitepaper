@@ -132,7 +132,7 @@ Oct 2018 - Distribute OZEX Personal Wallets
 
 Nov 2018 - OZEX will be listed on big exchanges.
 
-Dec 2019 - 30 new ICOs with OZEX
+2018 ~ 2019 - 30 new ICOs with OZEX
 
 Dec 2020 - 50 new ICOs with OZEX
 <BR><BR><BR><BR>
