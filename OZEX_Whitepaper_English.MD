@@ -94,8 +94,7 @@ OZEX team provides a variety range of investment opportunities to the OZEX token
 <BR><BR>
 3.1.2	Participating ICO via OZEX
 
-Once you have OZEX tokens in ERC-20 wallet, you are automatically qualified to participate in the range of ICO that OZEX team introduces. New coins will be distributed a hundredth against the value of OZEX token.
-<BR><BR>
+Once you have OZEX tokens in ERC-20 wallet, you are automatically qualified to participate in the range of ICO that OZEX team introduces. New coins will be distributed a hundredth against the value of OZEX token.<BR><BR>
 3.1.3 Smart Contract
 
 Smart contract will be automatically distributed to OZEX as well as all the benefits will be transparently given through smart contract.
@@ -140,7 +139,7 @@ Dec 2020 - 50 new ICOs with OZEX
 
 19th Apr 2018 - Presale Start (Presale Price : 1OZEX = US$0.004)
 
-10th May 2018 - Presale End
+6th May 2018 - Presale End
 
 11th May 2018 - ICO Start (ICO Price : 1OZEX = US$0.01)
 
