@@ -95,8 +95,6 @@ https://isthiscoinascam.com/
 <BR><BR>
 ### 3. OZEX的蓝图
 
-
-
 3.1 OZEX的结构
 
 3.1.1 ICO 货币筛选
@@ -152,7 +150,7 @@ OZEX 通过 Smart Contract 进行自动分配， 对OZEX持有者提供各种优
 
 2018年4月19号 -公开发售开始 (Presale Price : 1OZEX = US$0.004)
 
-2018年5月10号 -公开发售结束
+2018年5月6号 -公开发售结束
 
 2018年5月11号 - ICO 开始(ICO Price : 1OZEX = US$0.01)
 
