@@ -107,8 +107,7 @@ OZEX 将源源不断地细选出具有竞争力的数字货币（代币），为
 <BR><BR>
 3.1.3 Smart Contract
 
-OZEX 通过 Smart Contract 进行自动分配， 对OZEX持有者提供各种优惠，也将会通过Smart Contract公开，透明进行。
-<BR><BR>
+OZEX 通过 Smart Contract 进行自动分配， 对OZEX持有者提供各种优惠，也将会通过Smart Contract公开，透明进行。6<BR><BR>
 3.2 代币分配
 
 通过OZEX ICO 获得的代币分配方式如下。如果将100万个以上的OZEX存储在OZEX钱包上，在OZEX上市后的三年里，可获得在OZEX进行的所有货币100分之1的报酬。举例来说，拥有OZEX 10,000美金价值的持有者就可分配到OZEX进行的ICO货币的100美金。
@@ -131,7 +130,7 @@ OZEX 通过 Smart Contract 进行自动分配， 对OZEX持有者提供各种优
 
 4月 2018 - OZEX 首次公开发售（presale）
 
-5月 2018 - ICO
+6月 2018 - ICO
 
 6-8月 2018 - 预计在两家交易所上市
 
@@ -152,9 +151,9 @@ OZEX 通过 Smart Contract 进行自动分配， 对OZEX持有者提供各种优
 
 2018年5月6号 -公开发售结束
 
-2018年5月11号 - ICO 开始(ICO Price : 1OZEX = US$0.01)
+2018年6月4号 - ICO 开始(ICO Price : 1OZEX = US$0.01)
 
-2018年5月31号 - ICO 结束
+2018年7月10号 - ICO 结束
 
 <BR><BR>
 ### 6. 团队介绍
