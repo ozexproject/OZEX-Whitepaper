@@ -92,8 +92,7 @@ As the interest towards cryptocurrency has been increased since 2017, the number
 
 OZEX team provides a variety range of investment opportunities to the OZEX token holders by continuously selecting the competitive coins (Tokens). Also, the team will evaluate and validate the feasibility of the coins/tokens’ profit model, developers of the coins and their viability. 
 <BR><BR>
-3.1.2	Participating ICO via OZEX
-
+3.1.2	Participating ICO via OZE4
 Once you have OZEX tokens in ERC-20 wallet, you are automatically qualified to participate in the range of ICO that OZEX team introduces. New coins will be distributed a hundredth against the value of OZEX token.<BR><BR>
 3.1.3 Smart Contract
 
@@ -121,7 +120,7 @@ March 2018 - 1st Private Sale (2.5 billion OZEX) Complete​d.
 
 April 2018 - OZEX Presale
 
-May 2018 - OZEX ICO Start
+June 2018 - OZEX ICO Start
 
 June~August 2018 - OZEX will be listed on 2 exchanges.
 
@@ -141,9 +140,9 @@ Dec 2020 - 50 new ICOs with OZEX
 
 6th May 2018 - Presale End
 
-11th May 2018 - ICO Start (ICO Price : 1OZEX = US$0.01)
+4th June 2018 - ICO Start (ICO Price : 1OZEX = US$0.01)
 
-31st May 2018 - ICO End
+10st July 2018 - ICO End
 
 <BR><BR>
 ### 6. Team introduction
