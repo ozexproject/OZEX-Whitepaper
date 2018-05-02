@@ -123,7 +123,7 @@ March 2018 - 1st Private Sale (2.5 billion OZEX) Completed.
 
 April 2018 - OZEX Presale
 
-May 2018 - OZEX ICO Start
+June 2018 - OZEX ICO Start
 
 June~August 2018 - OZEX will be listed on 2 exchanges.
 
@@ -143,9 +143,9 @@ Dec 2020 - 50 new ICOs with OZEX
 
 6th May 2018 - Presale End
 
-11th May 2018 - ICO Start (ICO Price : 1OZEX = US$0.01)
+4th June 2018 - ICO Start (ICO Price : 1OZEX = US$0.01)
 
-31st May 2018 - ICO End
+10st July 2018 - ICO End
 
 <BR><BR>
 ### 6. 팀 구성원
