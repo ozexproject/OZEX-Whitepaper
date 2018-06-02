@@ -65,7 +65,7 @@ The coin, what is called ‘virtual currencies’, will be a familiar name for t
 
 1.3.1	 Cryptocurrency exchange
 
-exchangeable for BTC market), ‘Huobi’ (115coins exchangeable for BTC market), ‘bitfinex’(37 coins exchangeable for BTC market), ‘Okex’ (163 coins exchangeable for BTC market), and ‘Upbit’ (121 coins exchangeable for BTC market and 35 coins for KRW market). Besides that, there are mid side cryptocurrency exchanges by distributing rare or creative coins or tokens in the market.
+'Binanace' (121 coins exchangeable for BTC market), ‘Huobi’ (115coins exchangeable for BTC market), ‘bitfinex’(37 coins exchangeable for BTC market), ‘Okex’ (163 coins exchangeable for BTC market), and ‘Upbit’ (121 coins exchangeable for BTC market and 35 coins for KRW market). Besides that, there are mid side cryptocurrency exchanges by distributing rare or creative coins or tokens in the market.
 <BR><BR>
 ### 2. OZEX
 
