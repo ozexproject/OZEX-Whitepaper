@@ -22,9 +22,11 @@ Contents
 
 3. Blueprint of OZEX
 
-    3.1	The structure of OZEX
-
+		3.1	The Structure of OZEX
+		
 		3.2	Token distribution
+		
+		3.3	OZEX Capital Fund Management
     
 4. Competitivity 
 5. Road Map
@@ -52,6 +54,7 @@ Blockchain can be categorised into 3 following:
 
 Most of blockchains in ICO market are all based on public blockchain. It means anyone can participate in blockchaine networks, and thereby everyone can see all the transactions and verify them. Whereas, the private blockchain is limited to authorised participants and supervisory institutions. Only those who are authorised can access to the transactions, observe the process and only those participants can validate and approve the transactions. Also, it is limited to generate the new transactions as well. For these reasons, anyone can participate in the public blockchain, in which there is no central de facto operators to control the financial process and the participants can choose their own currencies for the financial activities which make them free from the regulations regarding the currencies. Whereas, the actual operators in private blockchain are clear and every transaction is technically based on the existing financial activities, so the participants should comply with the financial law and regulations.
 <BR>
+	
 1.2	Blockchain and coins
 
 2In 2008, an article titled [Bitcoin: A Peer-to-Peer Electronic Cash System] was published under the pseudonym Satoshi Nakamoto, and the source for the Bitcoin was publicly distributed in the following year, 2009. According to the article, Satoshi Nakamoto proposed “a solution to the double-spending problem using a peer-to-peer distributed timestamp server to generate computational proof of the chronological order of transactions.” and this is now a motto of Blockchain. Afterwards, a variety of alt-coins have been developed including Ethereum, Ripple, LiteCoin, Monero, and etc, and Bitcoin is play a key role among those alt-coins.
@@ -92,18 +95,44 @@ As the interest towards cryptocurrency has been increased since 2017, the number
 
 OZEX team provides a variety range of investment opportunities to the OZEX token holders by continuously selecting the competitive coins (Tokens). Also, the team will evaluate and validate the feasibility of the coins/tokens’ profit model, developers of the coins and their viability. 
 <BR><BR>
-3.1.2	Participating ICO via OZE4
+3.1.2	Participating ICO via OZEX
+	
 Once you have OZEX tokens in ERC-20 wallet, you are automatically qualified to participate in the range of ICO that OZEX team introduces. New coins will be distributed a hundredth against the value of OZEX token.<BR><BR>
 3.1.3 Smart Contract
 
 Smart contract will be automatically distributed to OZEX as well as all the benefits will be transparently given through smart contract.
 <BR><BR>
-3.2	Token distribution
-  The distribution of OZEX token via OZEX ICO will be following: 
+3.2	Token distribution<BR>
+The distribution of OZEX token via OZEX ICO will be following: 
 
 If you have 10 million of OZEX coins in your OZEX wallet, you are qualified to obtain a hundredth worth new coins/tokens, which OZEX testifies and validates against the value of OZEX token you have for 3 years. For instance, if you have 10,000 USD worth OZEX coins, you are allocated to have 100 USD new ICO coins which OZEX testifies and validates.
 (Note, the price of ICO coins and OZEX coins will be set by the day of the cryptocurrency exchange rate according to COINMARKETCAP, and the standard price of ICO coins/tokens will their prices of the next day of ICO. Coins/tokens will be distributed as each ICO roadmap indicates)
 <BR><BR>
+3.3	OZEX Capital Fund Management
+	
+The OZEX Capital Fund Management is formally described in the white paper for continuous business viability, stability and reliable management of cooperation with partners.
+
+The price of OZEX will be evaluated by the market at the same time as OZEX is listed on marketplaces. OZEX is scheduled to be listed in August 2018. OZEX is cooperating and will cooperate with multiple external cryptocurrencies startups to help them with their blockchain related engineering and marketing plans, and in returns of helps, OZEX swaps our partners OZEX for their tokens(coins).
+
+According to  <3.2 Token distribution> on this white paper, when the time comes to distribute a new token/coin, OZEX team will calculate and announce the essentially required amount of the new cryptocurrency from our partners.
+For instance, if our partner has issued their new token in an equivalent value of 0.1 USD, the listed OZEX price is 0.02 USD,  and the new tokens to be airdropped are 200 million, OZEX will swap our partner OZEX for 400 million of the new token, as twice as much. See the formula below. 
+
+EX) OZEX 0.02 USD : New token 0.1 USD = 2 Billion : 400 million
+
+Furthermore, the 200 million out of the total amount of 400 million New token, will be airdropped to OZEX holders (minimum 1,000,000 OZEX) and other 200 million will be accumulated with OZEX. The accumulation will be sold 3 months afterward the new token is listed on an exchange, or could be held by OZEX more than 3 months, if it is necessary.
+
+We, OZEX, will sell the new tokens partially over 6 weeks at least, or it may take longer if we expect the market may be fluctuated when we sell the new tokens. This is due to avoid any influences on the new token's value, the market fluctuations, and the jeopardy of the relationships with our partners. 
+The number of selling new token, is to secure back the number of OZEX which would be an equivalent of 50% ~ 200%, and the 70% of surpluses will be distributed to OZEX holders(No minimum quantities are required).
+The reason on high difference between 50% and 200% is, if it is fixed, it can be an obstacle to flexible fund management.
+In addition, if an OZEX holder is to receive less than 0.01ETH, the surpluses will not be distributed.
+
+If a total of $ 2,000,000 is distributed and Total Circulation is 20,000,000,000 OZEX, 1,000,000 OZEX holders can receive token / coin as an equivalent value of 100 USD.  It is a benefit to all OZEX holders without any limitation of the OZEX value and the minimum possession quantity, and the corresponding Block Height information for snapshots will be announced further.
+
+* The number of tokens and the value of the tokens described above are all examples to describe the structural parts.
+
+The plan will keep OZEX competitive and sustain, also will boost the business continuity and scalability. If OZEX's total circulation is high, OZEX will be able to tune in a certain amount of OZEX coin, although it will be a very mere amount. 
+Of course, due to the characteristic of decentralization, OZEX, an ERC-20 Token, can not be issued beyond HARDCAP, but it is surely estimated that if the total circulation is going high, the price of OZEX has already increased significantly.
+
 ### 4.	Competitivity
 
 30 tokens will be selected by OZEX team and experts with regards to the roadmap and the number will increase to 50 tokens and will establish its own OZEX Alliance. The team is developing the secure and convenient way of exchanges considering the purpose of use and tastes for the investors and will ally with secure and robust coins to produce a large scale of alliance. OZEX is already guaranteed to be listed on 2 Chinese based exchanges unlike any other unguaranteed ICO coins, and we aim to list OZEX on big exchanges by November 2018.
@@ -140,9 +169,9 @@ Dec 2020 - 50 new ICOs with OZEX
 
 6th May 2018 - Presale End
 
-4th June 2018 - ICO Start (ICO Price : 1OZEX = US$0.01)
+20th Jun 2018 - ICO Start (ICO Price : 1OZEX = US$0.01)
 
-10st July 2018 - ICO End
+28st Aug 2018 - ICO End
 
 <BR><BR>
 ### 6. Team introduction
