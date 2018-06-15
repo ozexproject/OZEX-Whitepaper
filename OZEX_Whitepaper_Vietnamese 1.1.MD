@@ -177,4 +177,4 @@ Ngày 28 tháng 8 năm 2018 - Kết thúc ICO
 [Giới thiệu đội ngũ](https://ozex.io/ko/#team)
 
 
-# Sách trắng  OZEX (Tiếng việt)
+# Sách trắng  OZEX (Tiếng việt) / Translated by Thạnh Đào.
