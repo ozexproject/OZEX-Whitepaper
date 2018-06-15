@@ -1,4 +1,4 @@
-# OZEX Whitepaper INDONESIA
+# OZEX Whitepaper INDONESIAN
 
 
 DAFTAR ISI
