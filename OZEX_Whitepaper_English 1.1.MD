@@ -136,7 +136,7 @@ EX) OZEX 0.02 USD : New token 0.1 USD = 2 Billion : 400 million
 
 ### 4.	Competitiveness
 
- 30 tokens will be selected by the OZEX team of experts regarding the roadmap and the number will increase to 50 tokens and will establish its own OZEX Alliance. The team is developing a secure and convenient way for exchanges considering the requirements of investors and will ally with secure and robust coins to produce a large scale alliance. OZEX has already been guaranteed listings on 2 Chinese based exchanges, unlike any other unguaranteed ICO coins, and we aim to list OZEX on big exchanges by November 2018.
+ 30 tokens will be selected by the OZEX team of experts regarding the roadmap and the number will increase to 50 tokens and will establish its own OZEX Alliance. The team is developing a secure and convenient way for exchanges considering the requirements of investors and will ally with secure and robust coins to produce a large scale alliance. OZEX has already been guaranteed listings on 2 global based exchanges, unlike any other unguaranteed ICO coins, and we aim to list OZEX on big exchanges by November 2018.
 
 
 <BR><BR>
