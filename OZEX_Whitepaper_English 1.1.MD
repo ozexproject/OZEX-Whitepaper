@@ -89,7 +89,7 @@ What OZEX provides:
 3.	Profitability for ICO investment
 
 
- First, when it comes to the convenience of an ICO investment, OZEX has a variety of experts who have many years’ experience in all stages of the process from mining to trading. OZEX offers investors, holding OZEX tokens, the opportunity to participate in the ICO of selective coins. These coins/tokens and ICOs will be assessed and validated by our experts. Secondly, our consultants are cryptocurrency experts and they will study how stable an ICO investment is. OZEX evaluates the credibility of the companies and analyses their financial and technical visions. Thirdly, with regards to profitability, it is generally held that the price of coins and tokens increases above their initial price once the coins/tokens are listed on the ICO exchanges. For example, the Return On Investment (ROI) in NEO is 5253% and the ROI in Populous is 3821%. However, on the other hand there is Nimiq and the ROI was -153%. The average ROI in ETH, according to icostats.com, is 223%. But it is highly possible that an average ROI can be soar above what is anticipated if the core vision of the company and its marketing fuels a rapid ascent. Thereby generating maximum profits for the investor.
+ First, when it comes to the convenience of an ICO investment, OZEX has a variety of experts who have many years’ experience in all stages of the process from mining to trading. OZEX offers investors, holding OZX tokens, the opportunity to participate in the ICO of selective coins. These coins/tokens and ICOs will be assessed and validated by our experts. Secondly, our consultants are cryptocurrency experts and they will study how stable an ICO investment is. OZEX evaluates the credibility of the companies and analyses their financial and technical visions. Thirdly, with regards to profitability, it is generally held that the price of coins and tokens increases above their initial price once the coins/tokens are listed on the ICO exchanges. For example, the Return On Investment (ROI) in NEO is 5253% and the ROI in Populous is 3821%. However, on the other hand there is Nimiq and the ROI was -153%. The average ROI in ETH, according to icostats.com, is 223%. But it is highly possible that an average ROI can be soar above what is anticipated if the core vision of the company and its marketing fuels a rapid ascent. Thereby generating maximum profits for the investor.
 <BR><BR>
 ### 3	Blueprint of OZEX
 
@@ -99,40 +99,40 @@ What OZEX provides:
 
 3.1.1	ICO Coin selection
 
- By continuously selecting the most competitive coins/tokens, the OZEX team generates a variety of investment opportunities for OZEX token holders. Also, the team will evaluate and validate the feasibility of the coins/tokens’ profit model, including the coin developers and their viability. 
+ By continuously selecting the most competitive coins/tokens, the OZEX team generates a variety of investment opportunities for OZX token holders. Also, the team will evaluate and validate the feasibility of the coins/tokens’ profit model, including the coin developers and their viability. 
 <BR><BR>
 3.1.2	Participating ICOs via OZEX
 	
- Once you have OZEX tokens in an ERC-20 wallet, you are automatically qualified to participate in the range of ICOs that the OZEX team introduces. New coins will be distributed a hundredth against the value of an OZEX token.<BR><BR>
+ Once you have OZX tokens in an ERC-20 wallet, you are automatically qualified to participate in the range of ICOs that the OZEX team introduces. New coins will be distributed a hundredth against the value of an OZX token.<BR><BR>
 	
 3.1.3 Smart Contract
 
  A smart contract will be automatically distributed to OZEX investors. All the benefits will be given transparently through this smart contract. 
 <BR><BR>
 3.2	Token distribution<BR>
-The distribution of OZEX tokens via OZEX ICOs will be in this manner:
+The distribution of OZX tokens via OZEX ICOs will be in this manner:
 	
- If you have 10 million OZEX coins in your OZEX wallet, you are qualified to obtain a hundredth worth new coins/tokens, which OZEX testifies and validates against the value of an OZEX token you have for 3 years. For instance, if you have 10,000 USD worth of OZEX coins, you are allocated 100 USD worth of new ICO coins which OZEX testifies and validates. (Note, the price of ICO coins and OZEX coins will be set daily by CoinMarketCap's cryptocurrency exchange rate. The standard price of ICO coins/tokens will be calculated on the next day of the ICO. Coins/tokens will be distributed as each ICO roadmap dictates.) 
+ If you have 10 million OZX coins in your OZX wallet, you are qualified to obtain a hundredth worth new coins/tokens, which OZEX testifies and validates against the value of an OZEX token you have for 3 years. For instance, if you have 10,000 USD worth of OZEX coins, you are allocated 100 USD worth of new ICO coins which OZEX testifies and validates. (Note, the price of ICO coins and OZEX coins will be set daily by CoinMarketCap's cryptocurrency exchange rate. The standard price of ICO coins/tokens will be calculated on the next day of the ICO. Coins/tokens will be distributed as each ICO roadmap dictates.) 
 <BR><BR>
 3.3	OZEX Capital Fund Management
 	
  The OZEX Capital Fund Management is formally described in the white paper for continuous business viability, stability, and reliable management of cooperation with partners.
 
- The price of OZEX will be evaluated by the market at the same time as OZEX is listed on marketplaces. OZEX is scheduled to be listed in August 2018. OZEX is cooperating and will cooperate with multiple external cryptocurrencies startups to help them with their blockchain related engineering and marketing plans. In return for this assistance OZEX swaps our partners OZEX for their tokens/coins.
+ The price of OZX will be evaluated by the market at the same time as OZEX is listed on marketplaces. OZEX is scheduled to be listed in August 2018. OZEX is cooperating and will cooperate with multiple external cryptocurrencies startups to help them with their blockchain related engineering and marketing plans. In return for this assistance OZEX swaps our partners OZX for their tokens/coins.
 
- Regarding token distribution (point 3.2 of this white paper), when the time comes to distribute a new token/coin, the OZEX team will calculate and announce the essentially required amount of the new cryptocurrency for our partners. For instance, if a partner has issued their new token in an equivalent value of 0.1 USD, the listed OZEX price is 0.02 USD and the new tokens to be airdropped are 200 million. OZEX will swap our partner OZEX for 400 million of their new tokens, which is twice as much. See the formula below.
+ Regarding token distribution (point 3.2 of this white paper), when the time comes to distribute a new token/coin, the OZEX team will calculate and announce the essentially required amount of the new cryptocurrency for our partners. For instance, if a partner has issued their new token in an equivalent value of 0.1 USD, the listed OZX price is 0.02 USD and the new tokens to be airdropped are 200 million. OZEX will swap our partner OZEX for 400 million of their new tokens, which is twice as much. See the formula below.
 
-EX) OZEX 0.02 USD : New token 0.1 USD = 2 Billion : 400 million
+EX) OZX 0.02 USD : New token 0.1 USD = 2 Billion : 400 million
 
- Furthermore, the 200 million out of the total amount of 400 million new tokens, will be airdropped to OZEX holders (minimum 1,000,000 OZEX) and other 200 million will be accumulated by OZEX. The accumulation will be sold 3 months after the new token is listed on an exchange, or, if necessary, may be held by OZEX for more than 3 months.
+ Furthermore, the 200 million out of the total amount of 400 million new tokens, will be airdropped to OZX holders (minimum 1,000,000 OZX) and other 200 million will be accumulated by OZEX. The accumulation will be sold 3 months after the new token is listed on an exchange, or, if necessary, may be held by OZEX for more than 3 months.
 
- We, OZEX, will sell the new tokens partially over at least 6 weeks, or it may take longer if we expect the market may fluctuate when we sell the new tokens. This would be done to avoid any influence on the new token's value, market fluctuations, and the possibility of jeopardising relationships with our partners. The number of selling new token, is to secure back the number of OZEX  would be an equivalent of 50%—200% and 70% of surpluses will be distributed to OZEX holders. (No minimum quantities are required). The reason for the high difference between 50% and 200% is, if it is fixed, it can be an obstacle to flexible fund management. In addition, if an OZEX holder is to receive less than 0.01ETH, the surpluses will not be distributed.
+ We, OZEX, will sell the new tokens partially over at least 6 weeks, or it may take longer if we expect the market may fluctuate when we sell the new tokens. This would be done to avoid any influence on the new token's value, market fluctuations, and the possibility of jeopardising relationships with our partners. The number of selling new token, is to secure back the number of OZX  would be an equivalent of 50%—200% and 70% of surpluses will be distributed to OZX holders. (No minimum quantities are required). The reason for the high difference between 50% and 200% is, if it is fixed, it can be an obstacle to flexible fund management. In addition, if an OZX holder is to receive less than 0.01ETH, the surpluses will not be distributed.
 
- If a total of $2,000,000 is distributed and total circulation is 20,000,000,000 OZEX, 1,000,000 OZEX holders can receive a token/coin at an equivalent value of 100 USD. It is a benefit to all OZEX holders without any limitation of the OZEX value and the minimum possession quantity.  The corresponding Block Height information for snapshots will be announced later.
+ If a total of $2,000,000 is distributed and total circulation is 20,000,000,000 OZX, 1,000,000 OZX holders can receive a token/coin at an equivalent value of 100 USD. It is a benefit to all OZX holders without any limitation of the OZX value and the minimum possession quantity.  The corresponding Block Height information for snapshots will be announced later.
 
 •	The number of tokens and the value of the tokens described above are all examples to define the structural parts.
 
- This plan will keep OZEX competitive and sustainable, also boosting the business’ continuity and scalability. If OZEX's total circulation is high, OZEX will be able to tune in a certain amount of OZEX coin, although it will be a very minimal amount. Of course, due to the characteristic of decentralisation, OZEX, an ERC-20 Token, cannot be issued beyond HARDCAP. But, it is estimated that if the total circulation is going high, the price of OZEX has already increased significantly.
+ This plan will keep OZEX competitive and sustainable, also boosting the business’ continuity and scalability. If OZX's total circulation is high, OZEX will be able to tune in a certain amount of OZX coin, although it will be a very minimal amount. Of course, due to the characteristic of decentralisation, OZX, an ERC-20 Token, cannot be issued beyond HARDCAP. But, it is estimated that if the total circulation is going high, the price of OZX has already increased significantly.
 
 ### 4.	Competitiveness
 
