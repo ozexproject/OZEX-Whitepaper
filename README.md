@@ -14,3 +14,4 @@
   <li><a href="https://github.com/ozexproject/OZEX-Whitepaper/blob/master/OZEX_Lightpaper_English%201.0.pdf.pdf">OZEX Lightpaper 1.0 English Version</a></li>  
   <li><a href="https://github.com/ozexproject/OZEX-Whitepaper/blob/master/OZEX_Onepaper_English%201.1.MD.jpg">OZEX Onepaper 1.1 English Version</a></li>  
   <li><a href="https://github.com/ozexproject/OZEX-Whitepaper/blob/master/OZEX_Onepaper_Korean%201.1.MD.jpg">OZEX Onepaper 1.1 Korean Version</a></li>  
+  <li><a href="https://github.com/ozexproject/OZEX-Whitepaper/blob/master/OZEX_Onepaper_Russian%201.1.MD.jpg">OZEX Onepaper 1.1 Russian Version</a></li>  
