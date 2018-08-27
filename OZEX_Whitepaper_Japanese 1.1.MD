@@ -108,5 +108,8 @@ OZEXは、新しいトークンを少なくとも6週間にわたって部分的
 
 6. チームの紹介
 チームの紹介
-OZEXの白書 (日本語)
+OZEXの白書 (日本語) 
+
+Translated by  
+Rizal Dwi Setiawan
  
